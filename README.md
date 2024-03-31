@@ -1,1 +1,1 @@
-#Aplicativo para adição ou remoção de máscara
+# Aplicativo para adição ou remoção de máscara
